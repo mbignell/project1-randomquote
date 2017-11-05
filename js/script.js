@@ -22,7 +22,10 @@ function getRandomQuote() {
   return quotes[randomIndex];
 };
 
-// Function : Returns a random hex code that I don't use because it'd be ugly and be weirdly removed from the quote association, but here's just an example of *how* I'd do it.
+// Function : Returns a random hex code that I don't use because
+// 1. it'd be ugly and
+// 2. be weirdly removed from the quote association
+// But here's just an example of *how* I'd do it.
 function getRandomColor() {
   var characters = '0123456789ABCDEF';
   var hex = '#';
