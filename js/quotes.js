@@ -37,7 +37,7 @@ var quotes = [
   },
 
   {
-    quote: "We need someone perceived by the American people as irresponsible, untrustworthy, patisan, ambitious, and thirsty for the limelight. Am I crazy, or is this not a job for the House of Representatives?",
+    quote: "We need someone perceived by the American people as irresponsible, untrustworthy, partisan, ambitious, and thirsty for the limelight. Am I crazy, or is this not a job for the House of Representatives?",
     source: "C.J. Cregg",
     citation: "Ways and Means",
     date: "2001",
