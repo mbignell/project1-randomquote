@@ -2,7 +2,7 @@ var quotes = [
 
   {
     quote: "Look, if you think we&rsquo;re wrong, then I respect that. But if you think we&rsquo;re right and you won&rsquo;t speak up because you can't be bothered, then God, Jed, I don't even want to know you.",
-    source: "Mrs. Langingham",
+    source: "Mrs. Landingham",
     citation: "Two Cathedrals",
     date: "2001",
     bgcolor: "#4a569d",
